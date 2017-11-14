@@ -1,0 +1,2 @@
+# megincomp
+Sejlcomputer for meginjoller
